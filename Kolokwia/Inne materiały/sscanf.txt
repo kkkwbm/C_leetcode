@@ -1,0 +1,20 @@
+int sscanf(const char *str, const char *format, ...);
+
+%d: Read an int.
+%ld: Read a long int.
+%f: Read a float.
+%lf: Read a double.
+%c: Read a single character.
+%s: Read a string until a whitespace is encountered.
+%[...]: Read a string that matches a set of characters specified between [].
+
+%*d: The asterisk * indicates that the data is to be read from the input but ignored, i.e., it won't be stored.
+%5d: This reads up to 5 digits into an integer.
+%2s: This reads up to 2 characters into a string.
+%[a-z]: This reads a string consisting of letters from a to z.
+%[^a-z]: This reads until a character from a to z is encountered.
+
+Integers: Use %d for int, %ld for long, %llu for unsigned long long, etc.
+Floating-point: Use %f for float, %lf for double, and %Lf for long double.
+Characters: Use %c for single characters and %s for strings. %s stops reading at the first whitespace.
+Hex, Octal: Use %x or %X for hexadecimals, %o for octals.

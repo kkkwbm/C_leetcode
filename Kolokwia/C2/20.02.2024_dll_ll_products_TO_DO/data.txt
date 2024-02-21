@@ -1,0 +1,16 @@
+Procesory|Intel Core i5 12400F|799
+Procesory|AMD Ryzen 5 5600|699
+Procesory|Intel Core i5 10400F|429
+Procesory|AMD Ryzen 7 5800X|1129
+Pamiec RAM|GOODRAM 16GB 3200MHz|229
+Pamiec RAM|Kingston FURY 16GB 3600MHz|249
+Pamiec RAM|Patriot 16GB 3733MHz|299
+Pamiec RAM|Corsair 16GB 3200MHz|299
+Dyski twarde|Samsung 1TB M.2 PCIe NVMe 980|389
+Dyski twarde|WD 500GB 2,5" SATA SSD Blue SA510|189
+Dyski twarde|GOODRAM 256GB 2,5" SATA SSD CX400|79
+Dyski twarde|Kingston 1TB M.2 PCIe Gen4 NVMe KC3000|419
+Plyty glowne|ASUS PRIME B450 PLUS|469
+Plyty glowne|ASRock B550M Pro4|489
+Plyty glowne|Gigabyte B550 AORUS ELITE AX V2|799
+Plyty glowne|MSI MAG B550 TOMAHAWK MAX WIFI|919

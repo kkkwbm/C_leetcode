@@ -1,0 +1,4 @@
+Electronics|Smartphone|999
+Electronics|Laptop|1299
+Home|Sofa|550
+Home|Table|299

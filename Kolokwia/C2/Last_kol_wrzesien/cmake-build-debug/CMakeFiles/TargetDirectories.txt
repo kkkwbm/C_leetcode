@@ -1,0 +1,3 @@
+C:/Users/bwijata/CLionProjects/Last_kol_wrzesien/cmake-build-debug/CMakeFiles/Last_kol_wrzesien.dir
+C:/Users/bwijata/CLionProjects/Last_kol_wrzesien/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/bwijata/CLionProjects/Last_kol_wrzesien/cmake-build-debug/CMakeFiles/rebuild_cache.dir

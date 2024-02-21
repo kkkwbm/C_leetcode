@@ -1,0 +1,7 @@
+# ninja log v5
+5	105	7300075184642703	CMakeFiles/Last_kol_wrzesien.dir/defs.c.obj	59f44469804c9862
+2	179	7300691556840584	build.ninja	230538091553601b
+105	269	7300075186212437	Last_kol_wrzesien.exe	4da81851e1ce2c74
+1	96	7300075184527672	CMakeFiles/Last_kol_wrzesien.dir/main.c.obj	fbdbe4498db5f693
+2	147	7300722943928683	CMakeFiles/Last_kol_wrzesien.dir/defs.c.obj	59f44469804c9862
+148	337	7300722945791529	Last_kol_wrzesien.exe	4da81851e1ce2c74

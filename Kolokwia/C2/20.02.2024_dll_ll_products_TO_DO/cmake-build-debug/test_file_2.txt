@@ -1,0 +1,4 @@
+Luxury|Diamond Necklace|99999
+Luxury|Luxury Watch|25000
+Art|Vintage Painting|50000
+Art|Sculpture|20000

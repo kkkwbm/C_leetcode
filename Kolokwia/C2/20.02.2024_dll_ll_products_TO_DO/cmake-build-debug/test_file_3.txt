@@ -1,0 +1,4 @@
+Books|Fiction Novel|15
+Books|Science Textbook|75
+Books|Cookbook|35
+Books|Biography|20
