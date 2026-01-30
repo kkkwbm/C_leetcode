@@ -5,6 +5,6 @@ Zbiór moich rozwiązań do zadań z platformy LeetCode, zaimplementowanych w j�
 
 🚀 Struktura Projektu
 Każde rozwiązanie jest umieszczone w osobnym folderze lub pliku (main.c).
-Folder Dante odnosi się do zadań z systemu "Dante" (https://dante.iis.p.lodz.pl/#/auth/login) który obowiązywał na studiach. Jest to system z automatyczny testami bardzo podobny do leetcode.
+Folder Dante odnosi się do zadań z systemu "Dante" (https://dante.iis.p.lodz.pl/) który obowiązywał na studiach. Jest to system z automatyczny testami bardzo podobny do leetcode.
 
 Język: C (Standard C11/C99)
