@@ -2,11 +2,12 @@
 
 🧠 LeetCode Solutions in C
 
-Zbiór moich rozwiązań do zadań z platformy LeetCode, zaimplementowanych w języku C. Repozytorium służy do nauki struktur danych, algorytmów oraz optymalizacji kodu pod kątem wydajności pamięciowej i czasowej.
+A collection of my solutions to LeetCode problems, implemented in C. This repository serves as a personal laboratory for learning data structures, algorithms, and code optimization for both time and memory efficiency.
 
-🚀 Struktura Projektu
+🚀 Project Structure
 
-Każde rozwiązanie jest umieszczone w osobnym folderze lub pliku (main.c).
-Folder Dante odnosi się do zadań z systemu "Dante" (https://dante.iis.p.lodz.pl/) który obowiązywał na studiach. Jest to system z automatyczny testami bardzo podobny do leetcode.
+Each solution is organized into separate folders or individual main.c files.
 
-Język: C (Standard C11/C99)
+Dante Folder: Contains solutions for the "Dante" system (https://dante.iis.p.lodz.pl/) used during my university studies. Dante is an automated testing platform for C programming, very similar in nature to LeetCode.
+
+Language: C (Standard C11/C99)
